@@ -1,4 +1,4 @@
-# Week 0 — Billing and Architecture
+
 # Week 0 — Billing and Architecture
 
 Cloud Project BC - To Do Checklist
